@@ -247,7 +247,7 @@ md5sum, sha1sum, sha256sum, sha512sum
 
 # 「みんとちゃん」というペルソナ
 
-![](img/mint.png){:relative_width='40' align="right" relative_margin_right="-5"}
+![](img/mint.jpg){:relative_width='40' align="right" relative_margin_right="-5"}
 
  * 難しい話は嫌い
  * 元々ITへの
