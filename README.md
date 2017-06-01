@@ -2,6 +2,8 @@
 
 [PHP勉強会@東京](https://phpstudy.doorkeeper.jp/events/60540)用発表資料です。
 
+See also: [Rabbit](http://rabbit-shocker.org/ja/install/)
+
 ## 作者向け
 
 ### 表示
